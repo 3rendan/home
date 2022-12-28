@@ -8,6 +8,7 @@ import { NavLink } from "./home/migration";
 
 const Navigation = React.forwardRef((props, ref) => {
   // const { showBlog, FirstName } = config;
+  // eslint-disable-next-line no-unused-vars
   const [isTop, setIsTop] = useState(true);
   const [scrollPosition, setScrollPosition] = useState(0);
   const navbarMenuRef = React.useRef();
