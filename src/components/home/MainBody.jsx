@@ -3,13 +3,6 @@ import Container from "react-bootstrap/Container";
 import Typist from 'react-typist-component';
 import { Jumbotron } from "./migration";
 
-
-const styles = {
-  titleContainer: {
-    backgroundImage: `url(${Image})`
-  }
-};
-
 const MainBody = React.forwardRef(
   ({ gradient, title, message, icons }, ref) => {
     return (
