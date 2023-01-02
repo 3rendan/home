@@ -13,6 +13,7 @@ import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import GetInTouch from "./components/home/GetInTouch.jsx";
+import TechSkills from "./components/techSkills/TechSkills";
 
 
 const Home = React.forwardRef((props, ref) => {
@@ -42,6 +43,7 @@ const Home = React.forwardRef((props, ref) => {
           specfic={repos.specificRepos}
         />
       )}
+      <TechSkills />
       <Footer />
     </>
   );

@@ -2,7 +2,7 @@
   "name": "brendan-ryan-portfolio",
   "description": "A personal static website/portfolio template deployed via Netlify, built to showcase my recent projects.",
   "homepage": "https://brendanryan.xyz",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "dependencies": {
     "@iconify/react": "^4.0.1",
     "@testing-library/jest-dom": "^5.16.5",
