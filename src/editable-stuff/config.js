@@ -55,8 +55,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "3rendan", //i.e."johnDoe12Gh"
-  reposLength: 3,
-  specificRepos: ['ATHtest', 'house-marketplace', 'MODS-Expanded'],
+  reposLength: 5,
+  specificRepos: ['ATHtest', 'house-marketplace', 'MODS-Expanded', 'task-tracker', 'fediscogs'],
 };
 
 // Leadership SECTION
